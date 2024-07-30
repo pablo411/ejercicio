@@ -1,0 +1,72 @@
+ 
+ h1 {font-size: 32px;
+   margin: 80px;
+}
+
+ body {
+    
+    font-size: 16px;
+ }
+
+ .menu {
+    width: 1280px;
+    position: fixed;
+   justify-content: space-between; 
+   margin: 8px;
+}
+
+ul {
+    list-style: none;
+    display:flex;
+    justify-content:space-between;
+    padding: 0%;
+ }
+
+ .iconos {
+   list-style: none;
+   display:flex;
+   justify-content:space-between;
+   
+   
+   
+}
+ 
+
+
+.fotos ul{
+   width: 1280px;
+    list-style: none;
+    display:flex;
+    justify-content: space-evenly;
+    padding: 0px;
+    margin: 32px;
+    
+}
+.precios{
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly;
+    padding: 0px;
+   
+}
+strong {
+margin-left: 80px;
+}
+
+
+footer {
+    font-size: 16px;
+    display:flex;
+    justify-content:space-between;
+    padding: 15px;
+    margin: 8px;
+    background-color: black;
+    color: white;
+    
+        
+ }
+.pie1 {
+text-align: end;
+
+}
+ 
